@@ -1,0 +1,64 @@
+about:
+  description: Build AI Agents, Visually
+  license: NOASSERTION
+  homepage: https://flowiseai.com
+  head: 9291856
+  archived: true
+  latestVersion: flowise@3.1.4
+  collectedAt: 2026-09-01T05:31:53Z
+timeline:
+  created: 2023-03-31
+  lastCommit: 2026-08-13
+  lastRelease: 2026-07-29
+popularity:
+  star: 55401
+  watcher: 369
+  fork: 24973
+  release: 85
+  contributor: 329
+  pullRequest: 949
+  issue: 2670
+language:
+  TypeScript: 8774076
+  JavaScript: 3882965
+  HTML: 789221
+  Handlebars: 716174
+  CSS: 26973
+  SCSS: 9005
+  Dockerfile: 3564
+  Shell: 3431
+  Batchfile: 60
+totalLine: 14205469
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 6
+    openPR: 10
+    closedIssue: 1
+    openIssue: 5
+    commit: 7
+  last90d:
+    since: 2026-06-03
+    release: 2
+    mergedPR: 33
+    openPR: 133
+    closedIssue: 8
+    openIssue: 46
+    commit: 35
+  last180d:
+    since: 2026-03-05
+    release: 5
+    mergedPR: 237
+    openPR: 223
+    closedIssue: 69
+    openIssue: 96
+    commit: 237
+  last360d:
+    since: 2025-09-06
+    release: 12
+    mergedPR: 472
+    openPR: 283
+    closedIssue: 209
+    openIssue: 186
+    commit: 480
