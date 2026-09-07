@@ -5,15 +5,15 @@ about:
   head: 9291856
   archived: true
   latestVersion: "flowise@3.1.4"
-  collectedAt: 2026-09-07T06:15:20Z
+  collectedAt: 2026-09-07T18:20:44Z
 timeline:
   created: 2023-03-31
   lastCommit: 2026-08-13
   lastRelease: 2026-07-29
 popularity:
-  star: 55428
-  watcher: 374
-  fork: 24978
+  star: 55429
+  watcher: 375
+  fork: 24979
   release: 85
   contributor: 329
   pullRequest: 2770
@@ -87,7 +87,7 @@ total:
   commit: 3634
 ---
 path: /home/runner/.x-repo/github.com/FlowiseAI/Flowise
-collectedAt: 2026-09-07T06:15:35Z
+collectedAt: 2026-09-07T18:20:52Z
 loc:
   TypeScript:
     code: 161774
@@ -173,7 +173,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:15:38+00:00
+  collectedAt: 2026-09-07T18:20:54+00:00
   platform:
     darwin/arm64:
       name:  null
