@@ -7,7 +7,7 @@ about:
   latestVersion: "flowise@3.1.4"
   latestRelease: "flowise@3.1.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:19:06Z
+  collectedAt: 2026-09-10T23:41:19Z
 timeline:
   created: 2023-03-31
   lastCommit: 2026-08-13
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-07-29
   lastPrerelease: 
 popularity:
-  star: 55455
+  star: 55457
   watcher: 376
-  fork: 24992
+  fork: 24994
   release: 85
   contributor: 329
   pullRequest: 2770
@@ -91,7 +91,7 @@ total:
   commit: 3634
 ---
 path: /home/runner/.x-repo/github.com/FlowiseAI/Flowise
-collectedAt: 2026-09-10T18:19:14Z
+collectedAt: 2026-09-10T23:41:31Z
 loc:
   TypeScript:
     code: 161774
