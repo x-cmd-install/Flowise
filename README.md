@@ -6,7 +6,7 @@
 
 Build AI Agents, Visually
 
-![Flowise](https://repo.x-cmd.io/Flowise.svg)
+[![x-cmd/install — Flowise Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Flowise.svg)](https://x-cmd.com/install/Flowise)
 
 ## Install
 
@@ -39,22 +39,22 @@ Total: **391,608** lines of code across **1858** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 55,466 · **Forks**: 25,030 · **Open issues**: 2,671 · **Contributors**: 329
+- **Stars**: 55,467 · **Forks**: 25,030 · **Open issues**: 2,670 · **Contributors**: 329
 
 ## Totals (cumulative)
 
-- **Releases**: 85 · **Merged PRs**: 1821 · **Open PRs**: 341 · **Closed issues**: 1972 · **Open issues**: 699 · **Commits**: 3634
+- **Releases**: 85 · **Merged PRs**: 1821 · **Open PRs**: 341 · **Closed issues**: 1971 · **Open issues**: 699 · **Commits**: 3634
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 1 | 16 | 30 | 5 | 17 | 18 |
-| 90d | 2026-06-20 | 2 | 31 | 87 | 5 | 33 | 31 |
-| last180d | 2026-03-22 | 4 | 180 | 211 | 53 | 87 | 195 |
-| 360d | 2025-09-23 | 10 | 446 | 273 | 186 | 177 | 459 |
-| last720d | 2024-09-28 | 33 | 952 | 322 | 838 | 479 | 996 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 1 | 14 | 27 | 5 | 16 | 18 |
+| 90d | 2026-06-22 | 2 | 31 | 79 | 5 | 32 | 31 |
+| last180d | 2026-03-24 | 3 | 170 | 210 | 49 | 87 | 195 |
+| 360d | 2025-09-25 | 10 | 445 | 272 | 181 | 176 | 459 |
+| last720d | 2024-09-30 | 33 | 951 | 322 | 836 | 477 | 995 |
 
 ## Improve this data
 
@@ -65,4 +65,4 @@ Install metadata for Flowise lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:38:56Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:28:56Z._
