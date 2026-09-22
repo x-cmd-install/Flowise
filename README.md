@@ -39,7 +39,7 @@ Total: **391,608** lines of code across **1858** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 55,470 · **Forks**: 25,034 · **Open issues**: 2,670 · **Contributors**: 329
+- **Stars**: 55,474 · **Forks**: 25,039 · **Open issues**: 2,670 · **Contributors**: 329
 
 ## Totals (cumulative)
 
@@ -49,12 +49,12 @@ Total: **391,608** lines of code across **1858** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 1 | 13 | 25 | 5 | 14 | 11 |
-| 90d | 2026-06-23 | 2 | 29 | 78 | 5 | 31 | 27 |
-| last180d | 2026-03-25 | 3 | 170 | 210 | 48 | 85 | 174 |
-| 360d | 2025-09-26 | 10 | 445 | 272 | 181 | 175 | 447 |
-| last720d | 2024-10-01 | 33 | 951 | 322 | 834 | 477 | 994 |
+| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-24 | 1 | 11 | 24 | 5 | 12 | 11 |
+| 90d | 2026-06-24 | 2 | 26 | 72 | 5 | 30 | 27 |
+| last180d | 2026-03-26 | 3 | 167 | 206 | 47 | 85 | 174 |
+| 360d | 2025-09-27 | 10 | 444 | 272 | 178 | 174 | 447 |
+| last720d | 2024-10-02 | 33 | 949 | 322 | 830 | 477 | 994 |
 
 ## Improve this data
 
@@ -65,4 +65,4 @@ Install metadata for Flowise lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:45:00Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:30:59Z._
