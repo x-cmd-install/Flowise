@@ -7,7 +7,7 @@ about:
   latestVersion: "flowise@3.1.4"
   latestRelease: "flowise@3.1.4"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:27:52Z
+  collectedAt: 2026-11-28T09:19:35Z
 timeline:
   created: 2023-03-31
   lastCommit: 2026-08-13
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-29
   lastPrerelease: 
 popularity:
-  star: 55601
+  star: 55605
   watcher: 389
   fork: 25101
   release: 85
@@ -35,7 +35,7 @@ language:
 totalBytes: 14205469
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 0
@@ -43,7 +43,7 @@ recent:
     openIssue: 0
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 0
@@ -51,7 +51,7 @@ recent:
     openIssue: 0
     commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
     openPR: 0
@@ -59,28 +59,28 @@ recent:
     openIssue: 0
     commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 2
     mergedPR: 35
-    openPR: 126
+    openPR: 125
     closedIssue: 9
-    openIssue: 50
+    openIssue: 49
     commit: 39
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 7
     mergedPR: 367
     openPR: 245
     closedIssue: 117
-    openIssue: 141
+    openIssue: 140
     commit: 370
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 27
-    mergedPR: 855
+    mergedPR: 854
     openPR: 311
     closedIssue: 690
-    openIssue: 441
+    openIssue: 440
     commit: 900
 total:
   release: 85
@@ -91,7 +91,7 @@ total:
   commit: 3634
 ---
 path: /home/runner/.x-repo/github.com/FlowiseAI/Flowise
-collectedAt: 2026-11-27T09:28:02Z
+collectedAt: 2026-11-28T09:19:44Z
 loc:
   TypeScript:
     code: 161774
